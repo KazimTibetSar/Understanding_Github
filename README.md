@@ -1,1 +1,1 @@
-# Understanding_Github
+# Understanding_Github Yeniyim github ı öğrenmeye çalışıyorum
